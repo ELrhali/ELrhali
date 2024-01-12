@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ghali!
+# 👋 Hi there, I'm Rhali!
 
 
 I'm a passionate software developer skilled in Microservices, Java, Spring Boot, and Angular. Let's build something amazing together! 😊
