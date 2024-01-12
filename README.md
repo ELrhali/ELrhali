@@ -11,4 +11,4 @@ I'm a passionate software developer skilled in Microservices, Java, Spring Boot,
 
 ## 🌐 Let's Connect
 
-- LinkedIn:https://www.linkedin.com/in/mohammed-el-rhali-b401b6209
+- [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)
