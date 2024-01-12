@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Rhali!
 
 
-I'm a passionate software developer skilled in Microservices, Java, Spring Boot, and Angular. Let's build something amazing together! 😊
+I'm a passionate software developer .
+
+ ### Let's build something amazing together! 😊
 
 ## 🚀 Technologies & Tools
 - Microservices
