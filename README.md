@@ -10,4 +10,4 @@ I'm a software developer experienced in Microservices, Java, Spring Boot, and An
 
 ## Let's Connect
 
-- LinkedIn: [YourLinkedInProfile]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209/)https://www.linkedin.com/in/mohammed-el-rhali-b401b6209/)
+- LinkedIn:https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209/)https://www.linkedin.com/in/mohammed-el-rhali-b401b6209
