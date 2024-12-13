@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohammed El Rhali!
+# 👋 Hi there, I'm El Rhali!
 
 I'm a passionate full-stack developer and automation enthusiast with expertise in:  
 - **Web Development**: Laravel, Angular, Spring Boot, and Microservices  
