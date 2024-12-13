@@ -9,7 +9,7 @@ I'm a passionate full-stack developer and automation enthusiast with expertise i
 
 ## 🚀 Technologies & Tools
 - **Backend**: Java, Spring Boot, Laravel  
-- **Frontend**: Angular  
+- **Frontend**: Angular , Vue.js 
 - **Automation**: iMacros, custom scripting  
 - **Data Analysis**: Data engineering and processing  
 
