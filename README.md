@@ -4,8 +4,7 @@ I'm a passionate full-stack developer and automation enthusiast with expertise i
 - **Web Development**: Laravel, Angular, Spring Boot, and Microservices  
 - **Automation & Scripting**: iMacros and custom automation solutions  
 - **Data Engineering**: Analysis and engineering for actionable insights  
-
-### 🌟 Let's collaborate to create innovative solutions!  
+  
 
 ## 🚀 Technologies & Tools
 - **Backend**: Java, Spring Boot, Laravel  
