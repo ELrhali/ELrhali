@@ -1,16 +1,17 @@
-# 👋 Hi there, I'm Rhali!
+# 👋 Hi there, I'm Mohammed El Rhali!
 
+I'm a passionate full-stack developer and automation enthusiast with expertise in:  
+- **Web Development**: Laravel, Angular, Spring Boot, and Microservices  
+- **Automation & Scripting**: iMacros and custom automation solutions  
+- **Data Engineering**: Analysis and engineering for actionable insights  
 
-I'm a passionate software developer .
-
- ### Let's build something amazing together! 😊
+### 🌟 Let's collaborate to create innovative solutions!  
 
 ## 🚀 Technologies & Tools
-- Microservices
-- Java
-- Spring Boot
-- Angular
+- **Backend**: Java, Spring Boot, Laravel  
+- **Frontend**: Angular  
+- **Automation**: iMacros, custom scripting  
+- **Data Analysis**: Data engineering and processing  
 
 ## 🌐 Let's Connect
-
 - [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)
