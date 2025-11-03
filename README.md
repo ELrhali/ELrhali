@@ -20,7 +20,7 @@ Nous allions **créativité**, **technologie** et **performance** pour offrir de
 ## Me contacter  
 - [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)  
 - [DevIni.ma](https://devini.ma/)
-- [Contact](contact@devini.ma)  
+- contact@devini.ma  
 - Basé à Tanger, Maroc  
 
 ---
