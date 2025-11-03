@@ -1,16 +1,35 @@
-# 👋 Hi there, I'm El Rhali!
+# 👋 Bonjour, je suis **Mohammed El Rhali**
 
-I'm a passionate full-stack developer and automation enthusiast with expertise in:  
-- **Web Development**: Laravel, Angular, Spring Boot, and Microservices  
-- **Automation & Scripting**: iMacros and custom automation solutions  
-- **Data Engineering**: Analysis and engineering for actionable insights  
-  
+**CEO & Fondateur de [DevIni](https://devini.ma/)** — une agence digitale basée à **Tanger, Maroc**.  
+Je suis passionné par le **développement web**, la **data science** et la **transformation digitale**.  
+Mon objectif est d’aider les entreprises à grandir grâce à des solutions numériques performantes et intelligentes.
 
-## 🚀 Technologies & Tools
-- **Backend**: Java, Spring Boot, Laravel  
-- **Frontend**: Angular , Vue.js 
-- **Automation**: iMacros, custom scripting  
-- **Data Analysis**: Data engineering and processing  
+---
 
-## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)
+## À propos de DevIni  
+[DevIni](https://devini.ma/) est une agence spécialisée dans :  
+- Création de **sites web** (vitrine, e-commerce, webapp)  
+- **Automatisation** des processus et intégration d’API  
+- **Solutions IA** : analyse de données, NLP, assistants automatisés  
+
+Nous allions **créativité**, **technologie** et **performance** pour offrir des produits à fort impact.
+
+---
+
+## Compétences & Technologies  
+**Backend :** Java, Spring Boot, Laravel  
+**Frontend :** Angular, Vue.js  
+**Automatisation :** iMacros, scripts personnalisés  
+**Data :** Data engineering et analyse  
+
+---
+
+## Me contacter  
+- [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)  
+- [DevIni.ma](https://devini.ma/)  
+- Basé à Tanger, Maroc  
+
+---
+
+> *“Le digital n’est pas une option, c’est une opportunité.”*  
+> — **Mohammed El Rhali**
