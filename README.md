@@ -14,19 +14,13 @@ Mon objectif est d’aider les entreprises à grandir grâce à des solutions nu
 
 Nous allions **créativité**, **technologie** et **performance** pour offrir des produits à fort impact.
 
----
-
-## Compétences & Technologies  
-**Backend :** Java, Spring Boot, Laravel  
-**Frontend :** Angular, Vue.js  
-**Automatisation :** iMacros, scripts personnalisés  
-**Data :** Data engineering et analyse  
 
 ---
 
 ## Me contacter  
 - [LinkedIn](https://www.linkedin.com/in/mohammed-el-rhali-b401b6209)  
-- [DevIni.ma](https://devini.ma/)  
+- [DevIni.ma](https://devini.ma/)
+- [Contact](contact@devini.ma)  
 - Basé à Tanger, Maroc  
 
 ---
