@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Mohammed El Rhali**
+# 👋 Bonjour, je suis ** El Rhali**
 
 **CEO & Fondateur de [DevIni](https://devini.ma/)** — une agence digitale basée à **Tanger, Maroc**.  
 Je suis passionné par le **développement web**, la **data science** et la **transformation digitale**.  
